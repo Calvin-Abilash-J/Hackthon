@@ -1,0 +1,19 @@
+body{
+    background: url(imagesg.jpeg);
+}
+.box{
+    /* background-color: blueviolet; */
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    min-height: 550px;
+    font-size: 2rem;
+}
+#image{
+    margin-top: 0%;
+    margin-right: 220px;
+}
+.text{
+    color: white    ;
+}
